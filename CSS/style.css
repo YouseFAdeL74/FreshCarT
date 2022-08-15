@@ -154,7 +154,7 @@ svg {
   background-size: cover;
   background-position: center center;
   min-height: 85vh;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .landing .container .row .col .img-info {
@@ -162,7 +162,7 @@ svg {
   background-size: cover;
   background-position: center center;
   min-height: 85vh;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 
 .carousel-inner .text {

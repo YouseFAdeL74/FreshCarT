@@ -1,4 +1,4 @@
-// onLoad For Loading
+// onLoad For Loading Screen
   setTimeout(function () {
     $("body").css("overflow","auto");
     $('.loader').fadeToggle();
